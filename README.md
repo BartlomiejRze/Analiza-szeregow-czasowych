@@ -1,8 +1,9 @@
-# Cele projektu
+# Analiza szeregów czasowych
 Celem projektu jest zastosowanie zaawansowanych metod analizy danych i sztucznej inteligencji
 w celu lepszego zrozumienia oraz prognozowania dynamiki rynku Forex, ze szczególnym
 skoncentrowaniem się na parze walutowej EUR/USD.
 
+# Etapy analizy
 - Analiza Historyczna: Przeprowadzenie szczegółowej analizy historycznych danych dotyczących pary walutowej EUR/USD w celu zidentyfikowania kluczowych trendów
 i wzorców.
 - Implementacja Modeli Sztucznej Inteligencji: Zastosowanie modeli sztucznej inteligencji,
