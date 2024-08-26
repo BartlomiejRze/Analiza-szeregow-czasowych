@@ -1,5 +1,4 @@
-# Analiza-szeregow-czasowych
-**Cele projektu**
+# Cele projektu
 Celem projektu jest zastosowanie zaawansowanych metod analizy danych i sztucznej inteligencji
 w celu lepszego zrozumienia oraz prognozowania dynamiki rynku Forex, ze szczególnym
 skoncentrowaniem się na parze walutowej EUR/USD.
